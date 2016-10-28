@@ -1,7 +1,7 @@
  [
    {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-07e6c437"
+    "ParameterValue": "ami-775e4f16"
     },
 
    {
@@ -16,12 +16,12 @@
 
     {
         "ParameterKey": "SubnetId",
-        "ParameterValue": "subnet-9b065bed"
+        "ParameterValue": "subnet-f3210985"
     },
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "sg-422aac3b"
+	"ParameterValue": "sg-b3583aca"
     }
 	
 ]
