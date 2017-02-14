@@ -16,12 +16,12 @@
 
     {
         "ParameterKey": "SubnetId",
-        "ParameterValue": "subnet-f3210985"
+        "ParameterValue": "subnet-9b065bed"
     },
 
     {
 	"ParameterKey": "InstanceSecurityGroup",
-	"ParameterValue": "sg-e31f6b9a"
+	"ParameterValue": "sg-2dc68954"
     }
 	
 ]
